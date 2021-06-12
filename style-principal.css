@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body {
+    font-family: 'Staatliches', cursive;
+}
+
+
+/*######################################## Navbar ########################################*/
+
+
+/*######################################## Header ########################################*/
+
+
+/*Imagen Principal-Inicio*/
+
+.carousel-indicators button {
+    width: 10px!important;
+    height: 10px!important;
+    border-radius: 50%;
+}
+
+.carousel-indicators .active {
+    width: 17px!important;
+    height: 17px!important;
+}
+
+.contenedor {
+    height: 500px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.contenedor img {
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: 0.5;
+}
+
+.Titulo {
+    padding-top: 250px;
+    position: absolute;
+}
+
+.Titulo h1 {
+    font-size: 70px;
+}
+
+.Titulo p {
+    font-size: 22px;
+}
+
+
+/*Imagen Principal-About*/
+
+
+/*Imagen Principal-Post*/
+
+
+/*Imagen Principal-Contact*/
+
+
+/*################################# Cards #################################*/
+
+
+/*######################################## Footer ########################################*/
